@@ -58,7 +58,7 @@ function preload() {
 
     explosionSound = loadSound("sound_explosion.wav");
 
-    bgMusic = loadSound("BG_music.m4a");
+  //  bgMusic = loadSound("BG_music.m4a");
 
     middleLevelImg = loadImage("middleLevelImg.png");
 
